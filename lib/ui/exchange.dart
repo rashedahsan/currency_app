@@ -12,7 +12,7 @@ class _ExchangeState extends State<Exchange> {
   Widget build(BuildContext context) {
     return Container(
       child: Text(
-        "data",
+        "excha",
         style: TextStyle(color: Colors.white),
       ),
     );
