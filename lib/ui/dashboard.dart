@@ -13,7 +13,7 @@ class _DashboardState extends State<Dashboard> {
   int _selectedindex = 0;
   Widget getview() {
     if (_selectedindex == 0) {
-      return Home();
+      return HomePage();
     }
     return Exchange();
   }
